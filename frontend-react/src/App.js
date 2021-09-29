@@ -54,7 +54,7 @@ function App() {
   return (
     <div className="container-fluid">
       <div className="row justify-content-center m-4">
-        <h1 className="text-center">Grids & Circle</h1>
+        <h1 className="text-center">GC-Coffee</h1>
       </div>
       <div className="card">
         <div className="row">
